@@ -1,4 +1,4 @@
-git+https://github.com/cinemagoer/cinemagoer@master-zip
+git+https://github.com/cinemagoer/cinemagoer
 tgcrypto
 pymongo>=4.8.0
 motor>=3.5.1
