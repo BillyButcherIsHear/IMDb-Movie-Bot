@@ -59,7 +59,11 @@ You can deploy this bot anywhere.
 </p>
 </details>
 
+<details><summary>Deploy to Koyeb</summary>
+  
 [![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?name=imdb-movie-bot&repository=BillyButcherIsHear%2FIMDb-Movie-Bot&branch=tg-test&instance_type=free)
+
+<details>
 
 <details>
   <summary><b>Deploy to Railway</b></summary>
